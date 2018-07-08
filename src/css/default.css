@@ -1,0 +1,44 @@
+/* 
+    Created on : 17/03/2018, 00:12:03
+    Author     : Matheus Michels
+*/
+
+.login
+{
+    -fx-font-size: 18pt;
+}
+
+.password
+{
+    -fx-font-size: 18pt;
+}
+
+.button
+{
+    -fx-background-radius: 10px;
+    -fx-font-weight: bold;
+    -fx-font-size: 15pt;
+}
+
+.button-label
+{
+    -fx-font-size: 16pt;
+    -fx-padding: 2px;
+}
+
+.action-label
+{
+    -fx-font-size: 14pt;
+    -fx-padding: 5px;
+}
+
+.category-label
+{
+    -fx-font-size: 13pt;
+    -fx-font-weight: bold;
+}
+
+.textfield
+{
+    -fx-font-size: 14pt;
+}
